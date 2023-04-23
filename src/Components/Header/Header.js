@@ -123,7 +123,7 @@ const Header = () => {
                                 hover:text-hOneColor
                                 hover:font-[600] ease-in duration-300 drop-shadow
                                  sm:p-1">
-                                <i className="ri-user-line"></i>
+                                {/*<i className="ri-user-line"></i>*/}
                                 Log In
                             </button>
                         </a>
@@ -137,7 +137,7 @@ const Header = () => {
                                 hover:bg-newDarkAccent
                                 hover:text-hOneColor
                                 hover:font-[600] ease-in duration-300 drop-shadow sm:p-1">
-                                <i className="ri-user-add-line"></i>
+                                {/*<i className="ri-user-add-line"></i>*/}
                                 Sign Up
                             </button>
                         </a>
