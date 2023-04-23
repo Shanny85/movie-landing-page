@@ -1,6 +1,5 @@
 import React,{useState} from "react";
-import ReactPlayer from "react-player";
-import SignUp from "../../assets/videos/sign-up.mov";
+
 
 const Register = ({setShowRegister}) => {
 

@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 import CountUp from "react-countup";
 import Carousel from 'react-bootstrap/Carousel';
 
@@ -41,7 +41,7 @@ const Hero = () => {
                 <div data-aos="fade-up" data-aos-duration="1800" data-aos-delay="200"
                      className="mt-7 flex items-center gap-6">
                     <a
-                        href="#">
+                        href="#home">
                         <button
                             className="bg-hOneColor text-newDarkAccent
                             font-[600] flex items-center gap-2
